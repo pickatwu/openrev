@@ -2984,6 +2984,15 @@ div.icon-text {
   margin-right: -0.375rem;
 }
 
+.hero-is-centered {
+  margin-left: 35%;
+ 
+}
+
+.the-width {
+  width: 40%;
+}
+
 .tag:not(body).is-white {
   background-color: white;
   color: #0a0a0a;
